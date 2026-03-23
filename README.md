@@ -1,3 +1,5 @@
+ab002f0a7ede015a021ddb77088fd55529113957
+
 # Claude Cookbooks
 
 The Claude Cookbooks provide code and guides designed to help developers build with Claude, offering copy-able code snippets that you can easily integrate into your own projects.
